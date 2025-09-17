@@ -67,9 +67,10 @@ This analysis leverages **Power BI dashboards** to visualize sales trends, custo
 ---
 
 ## 🔹 Dashboard Preview  
-(Add screenshots of your Power BI dashboard here. Example:)  
 
-![Dashboard Preview](C:\Users\chand\OneDrive\Pictures\Screenshots\Blinkit Sales Analysis –Dashboard_img.png)  
+Here is a snapshot of the interactive Power BI dashboard created for Blinkit Sales Analysis:  
+
+![Dashboard Preview](Dashboard_Screenshots/Blinkit_Sales_Analysis_Dashboard.png)
 
 ---
 
